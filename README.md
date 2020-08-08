@@ -1,9 +1,8 @@
-## Hi there, I'm [Eric Freeman](http://eric.bz/) 👋
+# Hi there, I'm [Eric Freeman](http://eric.bz/) 👋
 
 I'm a software engineer located in Utah with a passion for creating video games and writing music.
 <br /><br />
-### Projects
----
+## Cool Stuff I've Worked On
 
 #### Déjà Vu
 I was the sole programmer for Déjà Vu, an indie puzzle game about clones.  I also contributed to puzzle and level design, story, music, and handled the Xbox and Steam porting.
