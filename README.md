@@ -1,4 +1,4 @@
-# Hi there, I'm [Eric Freeman](http://eric.bz/) 👋
+# Hi there, I'm [Eric Freeman](http://eric.bz/)
 
 I'm a software engineer located in Utah with a passion for creating video games and writing music.
 <br /><br />
