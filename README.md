@@ -4,7 +4,7 @@ I'm a software engineer located in Utah with a passion for creating video games 
 <br /><br />
 ### Projects
 
-![Déjà Vu](https://partner.steamgames.com/gfxproxy/gfx/apps/843710/capsule_184x69.jpg)
+#### Déjà Vu
 I was the sole programmer for Déjà Vu, an indie puzzle game about clones.  I also contributed to puzzle and level design, story, music, and handled the Xbox and Steam porting.
 <br />
 [![Déjà Vu](https://steamcdn-a.akamaihd.net/steam/apps/843710/extras/clone_mechanic_2.gif)]()
