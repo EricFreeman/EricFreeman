@@ -1,18 +1,10 @@
-### Hi there 👋
-
-<!--
-**EricFreeman/EricFreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=EricFreeman)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I'm [Eric Freeman](http://eric.bz/) 👋
+---
+I'm a software engineer located in Utah with a passion for creating video games and writing music.
+<br /><br />
+## Projects
+---
+# Déjà Vu
+I was the sole programmer for Déjà Vu, an indie puzzle game about clones.  I also contributed to puzzle and level design, story, music, and handled the Xbox and Steam porting.
+[![Déjà Vu](https://img.youtube.com/vi/77evGtcUDIk/0.jpg)](https://www.youtube.com/watch?v=77evGtcUDIk)
+[Xbox Store](https://www.microsoft.com/en-us/p/deja-vu/9p4xcv70lftp?) [https://store.steampowered.com/app/843710/Dj_Vu/](Steam Store)
