@@ -12,7 +12,19 @@ A 2D fighting game made for Ludum Dare 49 in under three days. Wobbly Warbler fe
 
 [![Wobbly Warbler](https://img.itch.zone/aW1hZ2UvMTIyMzQ0OS83MTM0MTI0LnBuZw==/original/YxjKyJ.png)]()
 <br />
-[Trailer](https://www.youtube.com/watch?v=ML0ooIVgB94) | [Itch](https://ericfreeman.itch.io/wobbly-warbler)
+[Playthrough](https://www.youtube.com/watch?v=ML0ooIVgB94) | [Itch](https://ericfreeman.itch.io/wobbly-warbler)
+
+</details>
+
+<details>
+  <summary><b>Puppet Quest</b> (2021)</summary>
+<br>
+  
+A sidescrolling adventure game made in 13 hours for the 2021 GMTK game jam. Puppet Quest features controller support and full subtitles for the game.
+
+[![Puppet Quest](https://img.itch.zone/aW1hZ2UvMTA4MTc1NS82MjAxOTQ5LnBuZw==/original/pQx%2BtA.png)]()
+<br />
+[Playthrough](https://www.youtube.com/watch?v=yyeYz4FhJ0k) | [Itch](https://ericfreeman.itch.io/puppet-quest)
 
 </details>
 
