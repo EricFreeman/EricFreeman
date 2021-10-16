@@ -22,6 +22,8 @@ I was the sole programmer for Déjà Vu, an indie puzzle game about clones.  I a
   
 An FPS made in Unity3D for a 24 hour hackathon at work.  I used my [existing retro FPS project](https://github.com/EricFreeman/DungeonGame) as the base.  Contacts Quest was a 1-800 Contacts themed FPS in the vein of classic company branded shooters like Chex Quest.  You use bottles of contact solution to shoot at enemies with irritated eyes to calm them down.
 
-[![Contacts Quest Video](http://img.youtube.com/vi/cBMMWZJqGdQ/0.jpg)](http://www.youtube.com/watch?v=cBMMWZJqGdQ "Video Title")
+[![Contacts Quest](https://img.itch.zone/aW1hZ2UvOTExMDgxLzUxNDk5NjMucG5n/original/WkoOSM.png)]()
+<br />
+[Trailer](https://www.youtube.com/watch?v=cBMMWZJqGdQ) | [Itch](https://ericfreeman.itch.io/contacts-quest) 
 
 </details>
