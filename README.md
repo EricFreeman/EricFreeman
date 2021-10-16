@@ -7,7 +7,7 @@ I'm a software engineer located in Utah with a passion for creating video games 
 <details open>
   <summary><b>Déjà Vu</b> (2020)</summary>
 <br>
-I was the sole programmer for Déjà Vu, an indie puzzle game about clones.  I also contributed to puzzle and level design, story, music, and handled the Xbox and Steam porting. The game has many accessiblity features like colorblind mode and dark mode for photosensitive players. It has been localized in 13 different languages. Déjà Vu has a 4.7/5 star rating on Xbox as of 10/16/2021.
+I was the sole programmer for Déjà Vu, an indie puzzle game about clones.  I also contributed to puzzle and level design, story, music, and handled the Xbox and Steam porting. The game has many accessiblity features like colorblind mode and dark mode for photosensitive players and has been localized in 13 different languages. Déjà Vu has a 4.7/5 star rating on Xbox as of 10/16/2021.
 <br /><br />
   
 [![Déjà Vu](https://steamcdn-a.akamaihd.net/steam/apps/843710/extras/clone_mechanic_2.gif)]()
