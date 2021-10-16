@@ -4,6 +4,18 @@ I'm a software engineer located in Utah with a passion for creating video games 
 <br /><br />
 ## Cool Stuff I've Worked On
 
+<details>
+  <summary><b>Wobbly Warbler</b> (2021)</summary>
+<br>
+  
+A 2D fighting game made for Ludum Dare 49 in under three days. Wobbly Warbler features dynamic AI that gets more intelligent as you play the game, a deep combat system including multuiple attack speeds, interrupting enemy attacks, dodges, and full contorller support in game.
+
+[![Wobbly Warbler](https://img.itch.zone/aW1hZ2UvMTIyMzQ0OS83MTM0MTI0LnBuZw==/original/YxjKyJ.png)]()
+<br />
+[Trailer](https://www.youtube.com/watch?v=ML0ooIVgB94) | [Itch](https://ericfreeman.itch.io/wobbly-warbler)
+
+</details>
+
 <details open>
   <summary><b>Déjà Vu</b> (2020)</summary>
 <br>
